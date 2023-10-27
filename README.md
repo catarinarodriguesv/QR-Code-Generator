@@ -36,6 +36,6 @@ This project was achieved using JavaScript and Node.js
   node index.js
 ```
 
-The code will ask you to provide the URL link you desire to turn into a QR-Code and after that, the magic will happen!
+The code will ask you to provide the URL link you desire to turn into a QR-Code and after that, the magic will happen! You will find your new QR-Code in the folder.
 
 Congratulations! You've successfully set up and run your new qr-code generator! 
