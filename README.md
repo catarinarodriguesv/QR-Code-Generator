@@ -23,7 +23,7 @@ This project was achieved using JavaScript and Node.js
 
 ### Installation and configuration 
 1. Download the project code from its source. You can do this by either downloading the code directly from [the source](https://github.com/catarinarodriguesv/QR-Code-Generator.git) or by cloning the repository using a version control tool like Git.
-2. Unzip the folder and open your VSCode (File > Open Folder > **selectYourDirectory**)
+2. Unzip the folder and open it with your VSCode.
 3. In the VSCode terminal:
 ```bash
   npm init -y
