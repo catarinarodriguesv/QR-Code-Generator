@@ -19,7 +19,6 @@ This project was achieved using JavaScript and Node.js
 ## Getting Started
 ### Prerequisites
 - **VSCode**
-- **NPM**
 - **Node.js**
 
 ### Installation and configuration 
